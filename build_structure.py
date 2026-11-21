@@ -16,5 +16,5 @@ for day in advent_days:
     
     with open(os.path.join(day_base_path, "votes.md"), "w") as votes_file:
         for participant in PARTICIPANTS:
-            votes_file.write(f"Votes For {participant}\n")
+            votes_file.write(f"Votes For {participant}: \n\n")
 
