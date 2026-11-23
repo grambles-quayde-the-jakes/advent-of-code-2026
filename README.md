@@ -11,6 +11,9 @@ Welcome to the first annual "the test team and also Dave and Louis participate i
 1. Submissions must be in one of: Python, Javascript, Typescript.
 2. Code how you like, be it golf, ascii art, or anything else.
 3. Do not give serious code review, it is up to each voter to decide what criteria they want to use to cast their vote.
+4. put up a pull request. There is no criteria for merge, so merge it right away.
+#### Branches
+Make a branch
 
 ## General Conduct
 1. Expect light teasing, this is all just for funsies.
@@ -20,9 +23,10 @@ Welcome to the first annual "the test team and also Dave and Louis participate i
 ## Voting and Victory
 1. Voting for yourself is not allowed
 2. Vote based on whatever criteria you want
-3. Votes are cast in the markdown file in each day's folder, just increment the number after the name.
-4. Each day's winner will get a candy cane.
-5. The person who wins the most days wins the hat.
+3. Cast your votes the day after each submission as part of your day's submission PR.
+4. Votes are cast in the markdown file in each day's folder, just increment the number after the name.
+5. Each day's winner will get a candy cane.
+6. The person who wins the most days wins the hat.
 
 ## The Hat
 1. The hat will be handmade by campbell.
