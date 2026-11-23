@@ -13,7 +13,7 @@ Welcome to the first annual "the test team and also Dave and Louis participate i
 3. Do not give serious code review, it is up to each voter to decide what criteria they want to use to cast their vote.
 4. put up a pull request. There is no criteria for merge, so merge it right away.
 #### Branches
-Make a branch
+Branch should be of the form <name>-<day>n-<whatever you want, meme it up>
 
 ## General Conduct
 1. Expect light teasing, this is all just for funsies.
